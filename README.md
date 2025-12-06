@@ -77,13 +77,15 @@ A professional React application for tracking job applications with authenticati
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](https://via.placeholder.com/800x400.png?text=Login+Page+Screenshot)
+![Login Page](<img width="840" height="756" alt="image" src="https://github.com/user-attachments/assets/cd2e20d9-f847-4ea9-94c4-5bec228666ed" />)
 
 ### 📑 Applications Table
-![Applications Table](https://via.placeholder.com/800x400.png?text=Applications+Table+Screenshot)
+![Applications Table Part-1](<img width="960" height="770" alt="image" src="https://github.com/user-attachments/assets/74f0c8b1-f9b5-432c-a76f-cf9e2b460dd1" />)
+
+![Applications Table Part-2](<img width="960" height="769" alt="image" src="https://github.com/user-attachments/assets/a5ccd8f2-74f2-46ca-9278-7572116b64f1" />)
 
 ### 📊 Dashboard Summary
-![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard+Screenshot)
+![Dashboard](<img width="840" height="761" alt="image" src="https://github.com/user-attachments/assets/ef3ece83-2590-4735-9e07-0fe06b8f82c6" />)
 
 ---
 
@@ -260,6 +262,6 @@ See the LICENSE file for details.
 
 - GitHub Issues: Open an issue
 
-- Email: your.email@example.com
+- Email: subhodeeproy37@gmail.com
 
 - Project Link: https://github.com/SubhodeepRoy17/jobtrack-pro
