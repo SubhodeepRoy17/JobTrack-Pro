@@ -163,3 +163,103 @@ Delete with confirmation
 Track your job search progress
 
 View recent applications
+
+---
+
+## 📁 Project Structure
+```
+jobtrack-pro/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── manifest.json
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── PrivateRoute.jsx
+│   │   ├── HomePage.jsx
+│   │   ├── LoginForm.jsx
+│   │   ├── Dashboard.jsx
+│   │   ├── ApplicationForm.jsx
+│   │   ├── ApplicationsTable.jsx
+│   │   └── NotFound.jsx
+│   ├── context/
+│   │   ├── AuthContext.jsx
+│   │   └── ApplicationContext.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.js
+│   └── index.css
+├── package.json
+├── README.md
+└── .gitignore
+```
+
+---
+
+## 🔧 API Reference
+### Authentication Context
+```
+{
+  user: { email, role } | null,
+  login: (email, password) => void,
+  logout: () => void
+}
+
+```
+
+### Application Context
+```
+{
+  applications: Array,
+  addApplication: (application) => void,
+  updateApplication: (id, data) => void,
+  deleteApplication: (id) => void
+}
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Follow these steps:
+
+```
+# Fork the repository
+# Create a feature branch
+git checkout -b feature-branch-name
+
+# Commit changes
+git commit -m "Add new feature"
+
+# Push to your branch
+git push origin feature-branch-name
+```
+Then open a Pull Request.
+
+### ✔ Code Style Guidelines
+
+- Use meaningful variable names
+
+- Add comments for complex logic
+
+- Follow project structure
+
+- Test before submitting
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+See the LICENSE file for details.
+
+---
+
+## 📞 Contact
+
+- GitHub Issues: Open an issue
+
+- Email: your.email@example.com
+
+- Project Link: https://github.com/SubhodeepRoy17/jobtrack-pro
