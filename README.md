@@ -106,7 +106,7 @@ A professional React application for tracking job applications with authenticati
 ### **Setup Instructions**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/jobtrack-pro.git
+git clone https://github.com/SubhodeepRoy17/jobtrack-pro.git
 cd jobtrack-pro
 
 # Install dependencies
@@ -114,3 +114,52 @@ npm install
 
 # Start development server
 npm start
+```
+## Open in your browser:
+👉 http://localhost:3000
+
+---
+
+## 💻 Usage
+
+### 🔑 Test Credentials
+Manager Account
+
+Email: hrmanager@gmail.com
+
+Password: any password (min 6 chars)
+
+Regular User
+
+Email: user@example.com
+
+Password: any password (min 6 chars)
+
+### 🌟 Features in Action
+➕ Adding a New Application
+
+Log in
+
+Go to Add Application
+
+Fill the form
+
+Submit
+
+### 🗂 Managing Applications
+
+View applications
+
+Search & filter
+
+Sort by date or company
+
+Edit inline
+
+Delete with confirmation
+
+### 📊 Viewing Dashboard
+
+Track your job search progress
+
+View recent applications
