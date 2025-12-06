@@ -77,15 +77,15 @@ A professional React application for tracking job applications with authenticati
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](<img width="840" height="756" alt="image" src="https://github.com/user-attachments/assets/cd2e20d9-f847-4ea9-94c4-5bec228666ed" />)
+![Login Page](https://github.com/user-attachments/assets/cd2e20d9-f847-4ea9-94c4-5bec228666ed)
 
 ### 📑 Applications Table
-![Applications Table Part-1](<img width="960" height="770" alt="image" src="https://github.com/user-attachments/assets/74f0c8b1-f9b5-432c-a76f-cf9e2b460dd1" />)
+![Applications Table Part-1](https://github.com/user-attachments/assets/74f0c8b1-f9b5-432c-a76f-cf9e2b460dd1)
 
-![Applications Table Part-2](<img width="960" height="769" alt="image" src="https://github.com/user-attachments/assets/a5ccd8f2-74f2-46ca-9278-7572116b64f1" />)
+![Applications Table Part-2](https://github.com/user-attachments/assets/a5ccd8f2-74f2-46ca-9278-7572116b64f1)
 
 ### 📊 Dashboard Summary
-![Dashboard](<img width="840" height="761" alt="image" src="https://github.com/user-attachments/assets/ef3ece83-2590-4735-9e07-0fe06b8f82c6" />)
+![Dashboard](https://github.com/user-attachments/assets/ef3ece83-2590-4735-9e07-0fe06b8f82c6)
 
 ---
 
