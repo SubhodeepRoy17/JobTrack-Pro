@@ -9,6 +9,7 @@
 A professional React application for tracking job applications with authentication, CRUD operations, and advanced filtering.
 
 🔗 **GitHub Repo:** https://github.com/SubhodeepRoy17/jobtrack-pro
+🔗 **Live Link:** https://job-track-pro-ten.vercel.app
 
 </div>
 
